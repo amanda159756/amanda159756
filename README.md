@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is AMANDA BARCELOS and I'm a Data Science Analyst, from BRAZIL!!</h2>
+<h2 align="left">Hi 👋! My name is AMANDA BARCELOS and I'm a Data Scientist, from BRAZIL!!</h2>
 
 ###
 
